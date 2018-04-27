@@ -1,4 +1,4 @@
-"""Raising custom erros.
+"""Raising custom errors.
 
 Sometimes users will perform invalid actions
 (either intentionally, or unintentionally)
